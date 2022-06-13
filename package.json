@@ -14,5 +14,20 @@
   },
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "name": "week14-homework",
+  "description": "# Model-View-Controller (MVC): Tech Blog",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsa5152/week14-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsa5152/week14-homework/issues"
+  },
+  "homepage": "https://github.com/elsa5152/week14-homework#readme"
 }
