@@ -13,13 +13,12 @@
     "sequelize": "^6.20.1"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "name": "week14-homework",
   "description": "# Model-View-Controller (MVC): Tech Blog",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elsa5152/week14-homework.git"
