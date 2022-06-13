@@ -13,7 +13,7 @@
     "sequelize": "^6.20.1"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "name": "week14-homework",
   "description": "# Model-View-Controller (MVC): Tech Blog",
