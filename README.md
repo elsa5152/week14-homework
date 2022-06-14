@@ -45,6 +45,6 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 
-## demo of my APP
+## my APP
 
-[Tech Blog](https://user-images.githubusercontent.com/100567053/172838712-3cf2c249-5ea1-474c-bb5f-51903451dd0e.MP4)
+[Tech Blog](https://tech-blog789.herokuapp.com/)
